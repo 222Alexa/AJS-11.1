@@ -32,3 +32,9 @@ const char = {
 Реализуйте итератор в классе `Team`, который по одному выдаёт персонажей (объекты типа `Person`).
 
 ---
+
+### Iterator`s
+
+[![Build status](https://ci.appveyor.com/api/projects/status/y1x44399pxn13aar/branch/main?svg=true)](https://ci.appveyor.com/project/222Alexa44925/ajs-11-1-vsfb4/branch/main)
+
+---
